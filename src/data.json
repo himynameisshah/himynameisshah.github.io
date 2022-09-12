@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "FishieProtecc",
+        "subtitle": "2D Game Engine",
+        "description": "Developed a 2D game engine for the GAM150 module in DigiPen Institute of Technology. Collaborated with designers to create a 2D children's game. Implemented artificial intelligence and the user interface. Designed the art and composed the music.",
+        "tools": "C++",
+        "type": "GameDev",
+        "link": "https://games.digipen.edu/games/fishieprotecc"
+    },
+    {
+        "id": 2,
+        "title": "Recoil",
+        "subtitle": "2D Game Engine",
+        "description": "Developed a 2D game engine for the GAM200/250 module in DigiPen Institute of Technology. Collaborated with designers to create a 2D action platformer game. Implemented graphics rendering using low-level api, OpenGL and user interface interactions.",
+        "tools": "C++, OpenGL",
+        "type": "GameDev",
+        "link": "https://www.youtube.com/watch?v=ygw4PUAifqU"
+    },
+    {
+        "id": 3,
+        "title": "Out of Reach",
+        "subtitle": "3D Game Engine",
+        "description": "Developed a 3D game engine for the GAM300 module in DigiPen Institute of Technology. Collaborated with designers to create a 3D action platformer game. Implemented graphics rendering using low-level API, OpenGL and user interface interactions",
+        "tools": "C++, OpenGL",
+        "type": "GameDev",
+        "link": "https://www.youtube.com/watch?v=FIe67sA1HcU"
+    },
+    {
+        "id": 4,
+        "title": "Shipwreck Crewmates",
+        "subtitle": "3D Game Engine",
+        "description": "Developed a 3D game engine for the GAM350 module in DigiPen Institute of Technology. Collaborated with designers to create a 3D multiplayer party game. Optimize existing graphics rendering using low-level API, OpenGL. Contributed to the art and composed the music",
+        "tools": "C++, OpenGL, FMOD",
+        "type": "GameDev",
+        "link": "https://www.youtube.com/watch?v=5gvnuaeruK8"
+    },
+    {
+        "id": 5,
+        "title": "SalesWhale Clone",
+        "subtitle": "Web Dev Practice",
+        "description": "Develop a frontend react application based on a Figma mockup for a job application.",
+        "tools": "ReactJS, JavaScript, HTML, CSS",
+        "type": "WebDev",
+        "link": "https://github.com/himynameisshah/SaleswhaleAssignment"
+    }
+]
+
